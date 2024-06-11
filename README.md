@@ -1,3 +1,5 @@
+![Minerva Logo](Logo-1.png)
+
 [[Discord]](https://discord.gg/7vVGtApFDx)
 [[Instagram]](https://www.instagram.com/minerva.create/)
 [[Threads]](https://www.threads.net/@minerva.create)
