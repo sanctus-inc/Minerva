@@ -1,0 +1,1 @@
+# Application files for MinervaPhoto
