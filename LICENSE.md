@@ -49,7 +49,7 @@ You must give appropriate credit to the original authors and maintainers of the 
 You may not sublicense the Software. All rights granted under this license are provided on a non-exclusive basis.
 
 ### 5. Payment and Donations
-For those who do not qualify for free usage under Section 4.1, usage of the Software requires a payment. Revenue collected will be used to support the development and maintenance of the Software, including providing compensation to contributors. Payment details and tiers will be specified on the official Minerva GitHub repository.
+For those who do not qualify for free usage under Section 4.1, usage of the Software requires a payment. Revenue collected will be used to support the development and maintenance of the Software, including providing compensation to contributors. Payment details and tiers will be specified on the official Minerva GitHub repository. Payments will be distributed to contributing developers based on their contributions, with a minimal overhead to keep the project alive.
 
 ### 6. Disclaimer of Warranty
 The Software is provided "as is", without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose, and non-infringement. In no event shall the authors or copyright holders be liable for any claim, damages, or other liability, whether in an action of contract, tort, or otherwise, arising from, out of, or in connection with the Software or the use or other dealings in the Software.
@@ -63,5 +63,14 @@ This License shall be governed by and interpreted in accordance with the laws of
 ### 9. Amendments
 This license may be amended by the Project Minerva maintainers. Any amendments will be published on the official Minerva GitHub repository and will apply to all subsequent versions of the Software.
 
-### 10. Contact
+### 10. AI Training Clause
+
+The use of this Software for training AI models is prohibited without explicit opt-in consent from users. Any AI models trained using this Software must redistribute any revenues generated from AI works as follows:
+
+- 12% retained by Minerva for administrative and project maintenance costs.
+- Of the remaining 88%:
+  - 40% to the AI engineers who developed the models.
+  - 60% to the creators whose data was used to train the AI models.
+
+### 11. Contact
 For questions or permissions regarding this license, please reach out to us via the Project Minerva GitHub repository.
