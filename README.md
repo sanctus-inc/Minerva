@@ -25,27 +25,27 @@ Minerva is founded on the principle that everyone should have access to powerful
 
 Minerva will initially include the following components:
 
-### 1. Raster Graphics Editor
+### 1. Raster Graphics Editor (MinervaCanvas)
 
 - A robust tool for image editing and manipulation.
 - Features include layers, filters, adjustments, and a wide array of brushes and tools for detailed work.
 
-### 2. Vector Graphics Editor
+### 2. Vector Graphics Editor (MinervaVector)
 
 - A comprehensive tool for creating and editing vector graphics.
 - Ideal for creating logos, icons, and complex illustrations with precision.
 
-### 3. Image Organizer and Processor
+### 3. Image Organizer and Processor (MinervaPhoto)
 
 - A tool designed for organizing, editing, and managing large photo libraries.
 - Includes features like non-destructive editing, tagging, and advanced search capabilities.
 
-### 4. Audio Editor
+### 4. Audio Editor (MinervaWave)
 
 - A powerful audio editing and mixing tool.
 - Features multi-track editing, audio effects, and support for various audio formats.
 
-### 5. Visual Effects and Motion Graphics Editor
+### 5. Visual Effects and Motion Graphics Editor (MinervaFX)
 
 - A tool for creating visual effects and motion graphics.
 - Includes features for compositing, animation, and special effects.
