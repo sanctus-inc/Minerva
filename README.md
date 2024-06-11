@@ -25,7 +25,7 @@ Minerva is founded on the principle that everyone should have access to powerful
 
 Minerva will initially include the following components:
 
-### 1. Photo Editor
+### 1. Raster Graphics Editor
 
 - A robust tool for image editing and manipulation.
 - Features include layers, filters, adjustments, and a wide array of brushes and tools for detailed work.
@@ -35,7 +35,7 @@ Minerva will initially include the following components:
 - A comprehensive tool for creating and editing vector graphics.
 - Ideal for creating logos, icons, and complex illustrations with precision.
 
-### 3. Photo Organization and Editing
+### 3. Image Organizer and Processor
 
 - A tool designed for organizing, editing, and managing large photo libraries.
 - Includes features like non-destructive editing, tagging, and advanced search capabilities.
@@ -45,7 +45,7 @@ Minerva will initially include the following components:
 - A powerful audio editing and mixing tool.
 - Features multi-track editing, audio effects, and support for various audio formats.
 
-### 5. Visual Effects and Motion Graphics
+### 5. Visual Effects and Motion Graphics Editor
 
 - A tool for creating visual effects and motion graphics.
 - Includes features for compositing, animation, and special effects.
