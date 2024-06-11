@@ -19,7 +19,7 @@ Minerva is an open-source suite of creative tools designed to empower independen
 
 ## [Vision](#vision)
 
-Minerva is founded on the principle that everyone should have access to powerful creative tools without the prohibitive costs and without the risk of having their work exploited by AI technologies that threaten to devalue their efforts and creations. Our mission is to democratize creativity by offering a comprehensive and powerful suite of tools that are free and open-source, encouraging a collaborative and community-driven approach to both software development and artistic creation.
+Minerva is founded on the principle that everyone should have access to powerful creative tools without the prohibitive costs and without the risk of having their work exploited by AI technologies that threaten to devalue their efforts and creations. Our mission is to democratize creativity by offering a comprehensive and powerful suite of tools that are free for professional and educational use, open-source, and which encourage a collaborative and community-driven approach to both software development and artistic creation.
 
 ## [Initial Components](#initial-components)
 
