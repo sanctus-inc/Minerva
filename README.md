@@ -1,3 +1,8 @@
+[[Discord]](https://discord.gg/7vVGtApFDx)
+[[Instagram]](https://www.instagram.com/minerva.create/)
+[[Threads]](https://www.threads.net/@minerva.create)
+
+
 # Minerva
 Minerva is a free and open-source suite of creative tools designed to empower independent artists, creators, and students with powerful software for their artistic and professional projects.
 
