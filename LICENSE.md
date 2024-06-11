@@ -1,7 +1,7 @@
 ## Minerva Software License (MSL) Version 1.0
 
 ### 1. Preamble
-Minerva aims to provide a free and open-source suite of creative tools for independent artists, creators, and students. This license is designed to protect the rights of the contributors and users while ensuring that the software remains accessible to those who need it most.
+Minerva aims to provide an open-source suite of creative tools with maximal freedom for independent artists, creators, and students while still aiming to be a viable option for commercial use. This license is designed to protect the rights of the contributors and users while ensuring that the software remains accessible to those who need it most.
 
 ### 2. Definitions
 "Software" refers to any software, tools, libraries, or documentation distributed under this license.
