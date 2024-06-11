@@ -47,7 +47,7 @@ We welcome contributions from the community! Whether you are a developer, design
 
 ## Community
 
-Join our community on Discord! (https://discord.gg/CQFhpKku) to discuss the project, share ideas, and collaborate with other contributors. Together, we can build a powerful suite of tools that genuinely empowers creators.
+Join our community on Discord! (https://discord.gg/7vVGtApFDx) to discuss the project, share ideas, and collaborate with other contributors. Together, we can build a powerful suite of tools that genuinely empowers creators.
 
 ## License
 
