@@ -79,7 +79,7 @@ For questions or permissions regarding this license, please reach out to us via 
 - [BarzinL](https://github.com/BarzinL)
   - Core project direction, administrative oversight, coding
 
-We would also liek to acknowledge the valuable contributions of non-code contributors:
+We would also like to acknowledge the valuable contributions of non-code contributors:
 ### Non-Code Contributors
 
 - **Artist-Advisor:**
