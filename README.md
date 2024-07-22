@@ -16,6 +16,7 @@ Minerva is an open-source suite of creative tools designed to empower independen
 5. [Community](#community)
 6. [License](#license)
 7. [Contact](#contact)
+8. [Contributors](#contributors)
 
 ## [Vision](#vision)
 
@@ -72,3 +73,14 @@ Minerva is licensed under the Minerva Software License (MSL) Version 1.0. For mo
 ## [Contact](#contact)
 
 For questions or permissions regarding this license, please reach out to us via the Minerva GitHub repository.
+
+## [Contributors](#contributors)
+
+- [BarzinL](https://github.com/BarzinL)
+  - Core project direction, administrative oversight, coding
+
+We would also liek to acknowledge the valuable contributions of non-code contributors:
+### Non-Code Contributors
+
+- **Artist-Advisor:**
+  - [Ebstro](https://github.com/Ebstro) - Provided artistic advice and direction, helped design user interface elements
